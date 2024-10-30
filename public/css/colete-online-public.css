@@ -1,0 +1,57 @@
+
+#billing_street_field, #shipping_street_field {
+  width: 100%;
+}
+
+[id^="shipping"]:has(+ #shipping_street_number_field),
+[id^="billing"]:has(+ #billing_street_number_field) {
+  width: 70%;
+  clear: none;
+  display: inline-block;
+}
+
+#billing_street_number_field, #shipping_street_number_field {
+  width: 25%;
+  clear: none;
+}
+
+#billing_street_number_field label, #shipping_street_number_field label {
+  white-space: nowrap;
+  width: 100%;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 767px) {
+  #billing_street_field, #shipping_street_field {
+    width: 100%;
+    clear: both;
+    display: block;
+  }
+
+  #billing_street_number_field, #shipping_street_number_field {
+    width: 100%;
+    clear: both;
+    display: block;
+  }
+
+  [id^="shipping"]:has(+ #shipping_street_number_field),
+  [id^="billing"]:has(+ #billing_street_number_field) {
+    width: 100%;
+    clear: none;
+    display: inline-block;
+  }
+}
+
+.hidden-field {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.hidden-field abbr {
+  display: none;
+}

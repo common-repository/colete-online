@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'colete-online-icomoon';
+  src:  url('fonts/icomoon.eot?up8dh2');
+  src:  url('fonts/icomoon.eot?up8dh2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?up8dh2') format('truetype'),
+    url('fonts/icomoon.woff?up8dh2') format('woff'),
+    url('fonts/icomoon.svg?up8dh2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.coleteonline-not-logged-notice {
+  padding: 20px;
+  background-color: #5b95a4;
+  color: white;
+  max-width: 600px;
+}
+
+.coleteonline-not-logged-notice a {
+  color: white;
+}
+
+table.shipping-services-table-coleteonline {
+  max-width: 640px !important;
+}
+
+table.shipping-services-table-coleteonline tbody .column-drag-handle:before {
+  content: "\f333";
+  font-family: Dashicons;
+  text-align: center;
+  line-height: 1;
+  color: #999;
+  display: block;
+  width: 17px;
+  height: 100%;
+  margin: 4px 0 0 0;
+}
+
+.column-drag-handle {
+  width: 10% !important;
+}
+
+table.shipping-services-table-coleteonline tbody .column-name {
+  width: 80% !important;
+}
+
+.column-drag-handle {
+  max-width: 15px !important;
+  cursor: move;
+}
+
+.column-name {
+  min-width: 100px;
+}
+
+.coleteonline-notice-logo {
+  padding: 10px;
+}
+
+.coleteonline-notice-text {
+  vertical-align: top;
+}
+
+.coleteonline-notice-logo, .coleteonline-notice-text {
+  display: inline-block;
+}
+.coleteonline-notice-logo svg {
+  width: 120px;
+  height: 120px;
+}
+
+.wc-action-button-download_label:after {
+  font-family: 'colete-online-icomoon' !important;
+  content: '\e95e';
+}
+
+.updated .coleteonline-failure {
+  color: #e74c3c !important;
+}
+
+.coleteonline-change-delivery-to-fixed-points-settings-notice {
+  padding: 0.5em 0.5em 1.5em 0.5em;
+  border: 1px solid rgba(100, 100, 255, 0.5);
+  background-color: rgba(168, 168, 255, 0.5);
+}

@@ -1,0 +1,1960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: coleteonline\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/delivery-"
+"woocommerce\n"
+"POT-Creation-Date: 2024-01-18T14:17:32+02:00\n"
+"PO-Revision-Date: 2024-01-18 14:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
+"n%100<=19) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x:1,2c;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#. Plugin Name of the plugin
+#: admin/partials/colete-online-admin-display.php:24
+#: dist/colete-online-1.5.2/admin/partials/colete-online-admin-display.php:24
+msgid "Colete-Online"
+msgstr "Colete-Online"
+
+#. Description of the plugin
+msgid "Colete Online plugin for adding shipping methods"
+msgstr "Livrare comandă ColeteOnline"
+
+#. Author of the plugin
+msgid "Colete Online"
+msgstr "ColeteOnline"
+
+#. Author URI of the plugin
+msgid "www.colete-online.ro"
+msgstr "Colete-Online"
+
+#: admin/class-colete-online-admin-notice.php:33
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-notice.php:33
+msgid "Send parcels anywhere using ColeteOnline"
+msgstr "Trimiteți colete oriunde prin ColeteOnline"
+
+#: admin/class-colete-online-admin-notice.php:34
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-notice.php:34
+msgid "Thank you for installing the ColeteOnline plugin!"
+msgstr "Mulțumim că ați ales să instalați pluginul ColeteOnline!"
+
+#: admin/class-colete-online-admin-notice.php:36
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-notice.php:36
+msgid ""
+"We detected that WooCommerce is inactive. To use our plugin you first need "
+"to enable woocommerce!"
+msgstr ""
+"WooCommerce este inactiv. Pentru a folosi pluginul nostru trebuie să "
+"activați WooCommerce!"
+
+#: admin/class-colete-online-admin-notice.php:40
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-notice.php:40
+msgid ""
+"There is only one step left! Please go to our settings page and set up "
+"ColeteOnline!"
+msgstr ""
+"Mai aveți de făcut un singur pas! Mergeți în pagina de setări și configurați "
+"ColeteOnline!"
+
+#: admin/class-colete-online-admin-notice.php:45
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-notice.php:45
+msgid "Set up colete online"
+msgstr "Configurați Colete-Online"
+
+#: admin/class-colete-online-admin-order.php:14
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:14
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:89
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:98
+#: public/class-colete-online-address-filters.php:89
+#: public/class-colete-online-address-filters.php:98
+msgid "Street"
+msgstr "Strada"
+
+#: admin/class-colete-online-admin-order.php:16
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:16
+msgid "Street number"
+msgstr "Număr Stradă"
+
+#: admin/class-colete-online-admin-order.php:78
+#: admin/class-colete-online-admin-order.php:232
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:78
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:232
+msgid "Server Error. Please try again or contact us if the error persists"
+msgstr "Eroare de server.  Dacă eroarea persistă, va rugăm să ne contactați"
+
+#: admin/class-colete-online-admin-order.php:85
+#: admin/class-colete-online-admin-order.php:90
+#: admin/class-colete-online-admin-order.php:239
+#: admin/class-colete-online-admin-order.php:244
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:85
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:90
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:239
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:244
+msgid "The request is invalid"
+msgstr "Cererea este invalidă"
+
+#: admin/class-colete-online-admin-order.php:97
+#: admin/class-colete-online-admin-order.php:251
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:97
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:251
+msgid "An unexpected error occured"
+msgstr "A apărut o eroare neașteptată"
+
+#: admin/class-colete-online-admin-order.php:222
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:222
+msgid "Order status changed to Shipping"
+msgstr "Statusul comenzii a fost schimbat în Livrare"
+
+#: admin/class-colete-online-admin-order.php:306
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:306
+msgid "An unexpected error occurred"
+msgstr "A apărut o eroare neașteptată"
+
+#: admin/class-colete-online-admin-order.php:317
+#: admin/class-colete-online-admin-order.php:349
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:317
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:349
+msgctxt "Order status"
+msgid "Shipping"
+msgstr "Livrare"
+
+#: admin/class-colete-online-admin-order.php:322
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:322
+msgid "Shipping <span class=\"count\">(%s)</span>"
+msgid_plural "Shipping<span class=\"count\">(%s)</span>"
+msgstr[0] "Livrare <span class=\"count\">(%s)</span>"
+msgstr[1] "Livrare <span class=\"count\">(%s)</span>"
+msgstr[2] "Livrare <span class=\"count\">(%s)</span>"
+
+#: admin/class-colete-online-admin-order.php:457
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:457
+msgid "Failed creating order automatically."
+msgstr "Crearea automată a comenzii a eșuat."
+
+#: admin/class-colete-online-admin-order.php:480
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:480
+msgid "Create ColeteOnline courier orders"
+msgstr "Crează comenzi la curier prin ColeteOnline"
+
+#: admin/class-colete-online-admin-order.php:542
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:542
+msgid "Created AWB for %d order."
+msgid_plural "Created AWB for %d orders."
+msgstr[0] "S-a creat AWB pentru %d comanda."
+msgstr[1] "S-a creat AWB pentru %d comanda."
+msgstr[2] "S-a creat AWB pentru %d comanda."
+
+#: admin/class-colete-online-admin-order.php:546
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:546
+msgid "Failed creating AWB for %d order."
+msgid_plural "Failed creating AWB for %d orders."
+msgstr[0] "A eșuat crearea a %d comanda."
+msgstr[1] "A esuat crearea a %d comanda."
+msgstr[2] "A esuat crearea a %d comanda."
+
+#: admin/class-colete-online-admin-order.php:570
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:570
+msgid "Delivery to fixed point: %s"
+msgstr "Livrare la punct fix: %s"
+
+#: admin/class-colete-online-admin-order.php:585
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-order.php:585
+msgid " Track the shipping status: "
+msgstr "Urmărește statusul livrării:"
+
+#: admin/class-colete-online-admin-product.php:28
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:28
+msgid "Colete online shipping options:"
+msgstr "Opțiuni livrare comandă Colete Online:"
+
+#: admin/class-colete-online-admin-product.php:32
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:32
+msgid "Product type:"
+msgstr "Tip produs:"
+
+#: admin/class-colete-online-admin-product.php:42
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:42
+msgctxt "producttype"
+msgid "Default"
+msgstr "Implicit"
+
+#: admin/class-colete-online-admin-product.php:48
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:48
+msgctxt "producttype"
+msgid "\"White\" product"
+msgstr "Produs \"alb\""
+
+#: admin/class-colete-online-admin-product.php:54
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:54
+msgid "Product formed from multiple boxes:"
+msgstr "Produs format din mai multe cutii:"
+
+#: admin/class-colete-online-admin-product.php:87
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin-product.php:87
+msgctxt "product"
+msgid "Not eligible for locker"
+msgstr "Nu e eligibil pentru locker"
+
+#: admin/class-colete-online-admin.php:80
+#: dist/colete-online-1.5.2/admin/class-colete-online-admin.php:80
+msgid "ColeteOnline order shipping"
+msgstr "Livrare comandă ColeteOnline"
+
+#: admin/partials/colete-online-admin-display.php:21
+#: dist/colete-online-1.5.2/admin/partials/colete-online-admin-display.php:21
+msgid ""
+"For seeing the options please insert the client_id and client_secret "
+"provided by the "
+msgstr ""
+"Pentru a vedea toate opțiunile vă rugăm să introduceți client_id-ul și "
+"client_secret-ul oferit de "
+
+#: admin/partials/colete-online-admin-display.php:25
+#: dist/colete-online-1.5.2/admin/partials/colete-online-admin-display.php:25
+msgid "staff and save the changes!"
+msgstr "și să salvați modificările!"
+
+#: admin/partials/colete-online-admin-display.php:27
+#: dist/colete-online-1.5.2/admin/partials/colete-online-admin-display.php:27
+msgid ""
+"The API credentials are different from the user and password used to login "
+"on www.colete-online.ro!"
+msgstr ""
+"Credențialele pentru API sunt diferite de user-ul și parola folosite pentru "
+"a vă autentifica pe platforma www.colete-online.ro!"
+
+#: admin/views/html-order-shipping-meta-box-courier-orders.php:50
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box-courier-orders.php:50
+msgid "Download AWB"
+msgstr "Descarcă AWB"
+
+#: admin/views/html-order-shipping-meta-box.php:122
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:122
+msgid "Pick up address"
+msgstr "Adresa de ridicare"
+
+#: admin/views/html-order-shipping-meta-box.php:125
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:125
+msgid "Change pick up address"
+msgstr "Schimbă adresa de ridicare"
+
+#: admin/views/html-order-shipping-meta-box.php:148
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:148
+msgid "Contact"
+msgstr "Contact"
+
+#: admin/views/html-order-shipping-meta-box.php:176
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:176
+msgid "Address"
+msgstr "Adresa"
+
+#: admin/views/html-order-shipping-meta-box.php:201
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:201
+msgid "Building"
+msgstr "Cladirea"
+
+#: admin/views/html-order-shipping-meta-box.php:205
+#: admin/views/html-order-shipping-meta-box.php:217
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:205
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:217
+msgid "Ent. "
+msgstr "Scara "
+
+#: admin/views/html-order-shipping-meta-box.php:209
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:209
+msgid "Floor "
+msgstr "Etaj "
+
+#: admin/views/html-order-shipping-meta-box.php:213
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:213
+msgid "Intercom "
+msgstr "Interfon "
+
+#: admin/views/html-order-shipping-meta-box.php:221
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:221
+msgid "Ap. "
+msgstr "Ap. "
+
+#: admin/views/html-order-shipping-meta-box.php:250
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:250
+msgid "Delivery address"
+msgstr "Adresa de livrare"
+
+#: admin/views/html-order-shipping-meta-box.php:262
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:262
+msgid "Extra options"
+msgstr "Opțiuni extra"
+
+#: admin/views/html-order-shipping-meta-box.php:269
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:269
+msgid "The amount that will be requested at delivery"
+msgstr "Valoare ramburs"
+
+#: admin/views/html-order-shipping-meta-box.php:270
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:270
+msgid "Repayment amount:"
+msgstr "Valoare ramburs:"
+
+#: admin/views/html-order-shipping-meta-box.php:282
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:282
+msgid "The amount for which the order will be insured"
+msgstr "Valoare asigurare"
+
+#: admin/views/html-order-shipping-meta-box.php:283
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:283
+msgid "Insurance amount:"
+msgstr "Valoare asigurare:"
+
+#: admin/views/html-order-shipping-meta-box.php:310
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:310
+msgid "Use the extra service open at delivery"
+msgstr "Folosește serviciul extra de deschidere la livrare"
+
+#: admin/views/html-order-shipping-meta-box.php:311
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:311
+msgid "Open package at delivery:"
+msgstr "Deschidere la livrare:"
+
+#: admin/views/html-order-shipping-meta-box.php:333
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:333
+msgid "Packages"
+msgstr "Colete"
+
+#: admin/views/html-order-shipping-meta-box.php:337
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:337
+msgid "Product"
+msgstr "Produse"
+
+#: admin/views/html-order-shipping-meta-box.php:340
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:340
+msgid "Package"
+msgstr "Colet"
+
+#: admin/views/html-order-shipping-meta-box.php:343
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:343
+msgid "Weight"
+msgstr "Greutate"
+
+#: admin/views/html-order-shipping-meta-box.php:346
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:346
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+#: admin/views/html-order-shipping-meta-box.php:349
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:349
+msgid "Remove"
+msgstr "Șterge"
+
+#: admin/views/html-order-shipping-meta-box.php:461
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:461
+msgid "Add package"
+msgstr "Adaugă colet"
+
+#: admin/views/html-order-shipping-meta-box.php:467
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:467
+msgid "Reset packages"
+msgstr "Resetează colete"
+
+#: admin/views/html-order-shipping-meta-box.php:492
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:492
+msgid "Order content:"
+msgstr "Conținut comandă:"
+
+#: admin/views/html-order-shipping-meta-box.php:506
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:506
+msgid ""
+"Before placing an order, please be sure to fill the dimensions for each "
+"package! You can preset your products dimensions in the 'Products' section "
+"for future orders."
+msgstr ""
+"Înainte să plasați o comandă, va rugăm să va asigurați că sunt completate "
+"dimensiunile pentru fiecare pachet! Puteți să preconfigurați dimensiunile "
+"pentru produsele dumneavoastră în secțiunea 'Produse' pentru comenzile "
+"viitoare."
+
+#: admin/views/html-order-shipping-meta-box.php:514
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:514
+msgid "Available services"
+msgstr "Servicii disponibile"
+
+#: admin/views/html-order-shipping-meta-box.php:518
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:518
+msgid "Show offers"
+msgstr "Arată oferte"
+
+#: admin/views/html-order-shipping-meta-box.php:541
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:541
+msgid "Courier"
+msgstr "Curier"
+
+#: admin/views/html-order-shipping-meta-box.php:542
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:542
+msgid "Service"
+msgstr "Serviciu"
+
+#: admin/views/html-order-shipping-meta-box.php:543
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:543
+msgid "Price"
+msgstr "Preț"
+
+#: admin/views/html-order-shipping-meta-box.php:560
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:560
+msgid "Create courier order"
+msgstr "Crează comanda pentru curier"
+
+#: admin/views/html-order-shipping-meta-box.php:574
+#: dist/colete-online-1.5.2/admin/views/html-order-shipping-meta-box.php:574
+msgid "Add extra shipping order"
+msgstr "Adaugă o comandă nouă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:14
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:65
+#: includes/class-colete-online-shipping-method-options.php:14
+#: includes/class-colete-online-shipping-method-options.php:65
+msgid "Service selection"
+msgstr "Selecție serviciu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:15
+#: includes/class-colete-online-shipping-method-options.php:15
+msgid "The options to choose how the shipping method is displayed to the user"
+msgstr "Opțiunile de afișare ale metodei de transport"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:21
+#: includes/class-colete-online-shipping-method-options.php:21
+msgid "Testing mode"
+msgstr "Mod de testare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:22
+#: includes/class-colete-online-shipping-method-options.php:22
+msgid "Use the testing server to create orders."
+msgstr "Folosește modul de testare pentru a crea comenzi."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:30
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:392
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:405
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:418
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:431
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:485
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:506
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:520
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:550
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:619
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:646
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:674
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:701
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:725
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:740
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:753
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:767
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:781
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:847
+#: includes/class-colete-online-shipping-method-options.php:30
+#: includes/class-colete-online-shipping-method-options.php:392
+#: includes/class-colete-online-shipping-method-options.php:405
+#: includes/class-colete-online-shipping-method-options.php:418
+#: includes/class-colete-online-shipping-method-options.php:431
+#: includes/class-colete-online-shipping-method-options.php:485
+#: includes/class-colete-online-shipping-method-options.php:506
+#: includes/class-colete-online-shipping-method-options.php:520
+#: includes/class-colete-online-shipping-method-options.php:550
+#: includes/class-colete-online-shipping-method-options.php:619
+#: includes/class-colete-online-shipping-method-options.php:646
+#: includes/class-colete-online-shipping-method-options.php:674
+#: includes/class-colete-online-shipping-method-options.php:701
+#: includes/class-colete-online-shipping-method-options.php:725
+#: includes/class-colete-online-shipping-method-options.php:740
+#: includes/class-colete-online-shipping-method-options.php:753
+#: includes/class-colete-online-shipping-method-options.php:767
+#: includes/class-colete-online-shipping-method-options.php:781
+#: includes/class-colete-online-shipping-method-options.php:847
+msgid "No"
+msgstr "Nu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:31
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:393
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:406
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:419
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:432
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:507
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:521
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:549
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:620
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:647
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:675
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:702
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:726
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:739
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:754
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:766
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:780
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:848
+#: includes/class-colete-online-shipping-method-options.php:31
+#: includes/class-colete-online-shipping-method-options.php:393
+#: includes/class-colete-online-shipping-method-options.php:406
+#: includes/class-colete-online-shipping-method-options.php:419
+#: includes/class-colete-online-shipping-method-options.php:432
+#: includes/class-colete-online-shipping-method-options.php:507
+#: includes/class-colete-online-shipping-method-options.php:521
+#: includes/class-colete-online-shipping-method-options.php:549
+#: includes/class-colete-online-shipping-method-options.php:620
+#: includes/class-colete-online-shipping-method-options.php:647
+#: includes/class-colete-online-shipping-method-options.php:675
+#: includes/class-colete-online-shipping-method-options.php:702
+#: includes/class-colete-online-shipping-method-options.php:726
+#: includes/class-colete-online-shipping-method-options.php:739
+#: includes/class-colete-online-shipping-method-options.php:754
+#: includes/class-colete-online-shipping-method-options.php:766
+#: includes/class-colete-online-shipping-method-options.php:780
+#: includes/class-colete-online-shipping-method-options.php:848
+msgid "Yes"
+msgstr "Da"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:35
+#: includes/class-colete-online-shipping-method-options.php:35
+msgid "Selection type"
+msgstr "Tip de selecție"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:36
+#: includes/class-colete-online-shipping-method-options.php:36
+msgid "Provide a shipping method or allow the user to choose"
+msgstr "Alege o metodă de transport implicită sau lasă utilizatorul să aleagă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:44
+#: includes/class-colete-online-shipping-method-options.php:44
+msgid "Allow user choice"
+msgstr "Permite alegerea de către utilizator"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:45
+#: includes/class-colete-online-shipping-method-options.php:45
+msgid "Provide a shipping method"
+msgstr "Alege o metodă de transport"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:49
+#: includes/class-colete-online-shipping-method-options.php:49
+msgid "Display order"
+msgstr "Ordine afișare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:50
+#: includes/class-colete-online-shipping-method-options.php:50
+msgid "Configure the order in which the services are displayed to the client"
+msgstr "Configurează ordinea în care serviciile sunt afișate utilizatorului"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:58
+#: includes/class-colete-online-shipping-method-options.php:58
+msgid "Order by price"
+msgstr "Ordonează după preț"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:59
+#: includes/class-colete-online-shipping-method-options.php:59
+msgid "Order by grade"
+msgstr "Ordonează după notă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:60
+#: includes/class-colete-online-shipping-method-options.php:60
+msgid "Order by name"
+msgstr "Ordonează după nume"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:61
+#: includes/class-colete-online-shipping-method-options.php:61
+msgid "Use the order in the services table below"
+msgstr "Utilizează ordinea din tabelul de servcii de mai jos"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:66
+#: includes/class-colete-online-shipping-method-options.php:66
+msgid "Configure how the services are displayed"
+msgstr "Configurează modul de afișare al serviciilor"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:74
+#: includes/class-colete-online-shipping-method-options.php:74
+msgid "Direct select"
+msgstr "Selecție directă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:75
+#: includes/class-colete-online-shipping-method-options.php:75
+msgid "Best price"
+msgstr "Cel mai bun preț"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:76
+#: includes/class-colete-online-shipping-method-options.php:76
+msgid "Grade"
+msgstr "Notă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:80
+#: includes/class-colete-online-shipping-method-options.php:80
+msgid "Display only the first services"
+msgstr "Afișează doar primele servicii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:81
+#: includes/class-colete-online-shipping-method-options.php:81
+msgid ""
+"Indicate how many courier services should be presented to the user. For "
+"example if the previous column has \"bestPrice\" and here the input is 2, "
+"only the first 2 cheapest couriers will be shown. Leave 0 or empty for all"
+msgstr ""
+"Indică câte servicii de curierat ar trebuie prezentate utilizatorului. Spre "
+"exemplu, dacă opțiunea precedent selectată este \"bestPrice\" și selecția "
+"din câmpul curent este 2, doar primii 2 cei mai ieftini curieri vor fi "
+"afișați. Selectează 0 sau lasă spațiul liber că să fie afișați toți"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:90
+#: includes/class-colete-online-shipping-method-options.php:90
+msgid "Show custom name for available services"
+msgstr "Afișează un nume personalizat pentru servicii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:91
+#: includes/class-colete-online-shipping-method-options.php:91
+msgid "Enable the display of a custom name for the available shipping services"
+msgstr "Permite afișarea unui nume personalizat pentru metodele de transport"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:100
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:120
+#: includes/class-colete-online-shipping-method-options.php:100
+#: includes/class-colete-online-shipping-method-options.php:120
+msgid "Custom display name"
+msgstr "Nume personalizat afișat"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:101
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:121
+#: includes/class-colete-online-shipping-method-options.php:101
+#: includes/class-colete-online-shipping-method-options.php:121
+msgid ""
+"For the first matched service display a custom name. [courierName] and "
+"[serviceName] can be used and it will be replaced with the corresponding "
+"values"
+msgstr ""
+"Afișează un nume personalizat pentru primul serviciu găsit. [courierName] și "
+"[serviceName] pot fi folosite și vor fi înlocuite cu numele curierului "
+"respectiv numele serviciului"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:110
+#: includes/class-colete-online-shipping-method-options.php:110
+msgid "Show custom name for first shown service"
+msgstr "Afișează un nume personalizat pentru primul serviciu găsit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:111
+#: includes/class-colete-online-shipping-method-options.php:111
+msgid "Enable the display of a custom name for the first matched service"
+msgstr "Permite afișarea unui nume personalizat pentru primul serviciu găsit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:149
+#: includes/class-colete-online-shipping-method-options.php:149
+msgid "Price settings"
+msgstr "Setări preț"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:150
+#: includes/class-colete-online-shipping-method-options.php:150
+msgid "Configure how the price is calculated"
+msgstr "Configurează cum este calculat prețul"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:156
+#: includes/class-colete-online-shipping-method-options.php:156
+msgid "Display price"
+msgstr "Preț afișat"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:157
+#: includes/class-colete-online-shipping-method-options.php:157
+msgid "Show a fixed price or a price computed from the address"
+msgstr "Arată un preț fix sau un preț calculat pe baza adresei"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:164
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:169
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:175
+#: includes/class-colete-online-shipping-method-options.php:164
+#: includes/class-colete-online-shipping-method-options.php:169
+#: includes/class-colete-online-shipping-method-options.php:175
+msgid "Fixed price"
+msgstr "Preț fix"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:165
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:176
+#: includes/class-colete-online-shipping-method-options.php:165
+#: includes/class-colete-online-shipping-method-options.php:176
+msgid "Calculated price"
+msgstr "Preț calculat"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:170
+#: includes/class-colete-online-shipping-method-options.php:170
+msgid "Price without tax"
+msgstr "Preț fără taxe"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:180
+#: includes/class-colete-online-shipping-method-options.php:180
+msgid "Calculate in custom currency"
+msgstr "Calculează într-o moneda definită"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:181
+#: includes/class-colete-online-shipping-method-options.php:181
+msgid ""
+"This controls whether to use the shop base currency for calculation or a "
+"custom currency"
+msgstr ""
+"Această setare controlează dacă la calcularea prețurilor se va folosi moneda "
+"de baza a magazinului sau o altă moneda definită"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:187
+#: includes/class-colete-online-shipping-method-options.php:187
+msgid "Use shop base currency"
+msgstr "Folosește moneda de bază a magazinului"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:188
+#: includes/class-colete-online-shipping-method-options.php:188
+msgid "Use custom currency (advanced option, use with care)"
+msgstr "Folosește moneda definită (opțiune avansată, folosiți cu grijă)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:192
+#: includes/class-colete-online-shipping-method-options.php:192
+msgid "Custom base currency"
+msgstr "Moneda de baza definită"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:193
+#: includes/class-colete-online-shipping-method-options.php:193
+msgid "This controls in what currency prices should be calculated."
+msgstr "Această setare controlează în ce monedă sunt calculate prețurile."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:201
+#: includes/class-colete-online-shipping-method-options.php:201
+msgid "Display a fallback price"
+msgstr "Afișează un preț de rezervă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:202
+#: includes/class-colete-online-shipping-method-options.php:202
+msgid "Display a fallback price, if a quote cannot be calculated"
+msgstr ""
+"Afișează un preț de rezervă, în cazul în care prețurile nu pot fi calculate"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:209
+#: includes/class-colete-online-shipping-method-options.php:209
+msgid "Do not display a fallback price"
+msgstr "Nu afișa un preț de rezervă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:210
+#: includes/class-colete-online-shipping-method-options.php:210
+msgid "Display a fallback price if there are issues"
+msgstr "Afișează un preț de rezervă dacă există probleme"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:211
+#: includes/class-colete-online-shipping-method-options.php:211
+msgid "Display a fallback always (even if wrong address)"
+msgstr "Afișează un preț de rezervă mereu (chiar dacă adresa este incorectă)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:215
+#: includes/class-colete-online-shipping-method-options.php:215
+msgid "Fallback price"
+msgstr "Preț de rezervă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:216
+#: includes/class-colete-online-shipping-method-options.php:216
+msgid "Price to display if a quotation cannot be calculated (without tax)"
+msgstr ""
+"Preț de afișare în cazul în care prețurile nu pot fi calculate (fără taxe)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:225
+#: includes/class-colete-online-shipping-method-options.php:225
+msgid "Fallback service name"
+msgstr "Afișează nume de rezervă pentru serviciu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:226
+#: includes/class-colete-online-shipping-method-options.php:226
+msgid "The display name of the fallback service"
+msgstr "Nume de rezervă pentru serviciu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:235
+#: includes/class-colete-online-shipping-method-options.php:235
+msgid "Add fixed amount to price"
+msgstr "Adaugă o sumă fixă la preț"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:236
+#: includes/class-colete-online-shipping-method-options.php:236
+msgid "Add a fixed price to shipping costs (before tax)"
+msgstr "Adaugă un preț fix la costurile de livrare (înainte de taxe)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:243
+#: includes/class-colete-online-shipping-method-options.php:243
+msgid "Add percent amount to price"
+msgstr "Adaugă un procent la preț"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:244
+#: includes/class-colete-online-shipping-method-options.php:244
+msgid "Add a percent amount to shipping costs (0 - 100%, before tax)"
+msgstr "Adaugă un procent la costurile de livrare (0 - 100%, înainte de taxe)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:251
+#: includes/class-colete-online-shipping-method-options.php:251
+msgid "Round the price"
+msgstr "Rotunjește prețul"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:252
+#: includes/class-colete-online-shipping-method-options.php:252
+msgid ""
+"Round the price to nearest amount (before tax). For example if price is 13.2 "
+"and \"round price\" is 1, the amount will be 14. If \"round\" price is 5, "
+"the displayed amount will be 15."
+msgstr ""
+"Rotunjește prețul la cea mai apropiată sumă (înainte de taxe. Spre exemplu, "
+"dacă prețul este de 13.2 și rotunjirea este setată la 1, suma va fi 14. Dacă "
+"rotunjirea setată are valoare de 5, suma va fi 15."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:267
+#: includes/class-colete-online-shipping-method-options.php:267
+msgid "Allow free shipping"
+msgstr "Permite transportul gratuit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:268
+#: includes/class-colete-online-shipping-method-options.php:268
+msgid "Allow free shipping and configure the conditions for it"
+msgstr "Permite transportul gratuit și configurează condițiile"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:275
+#: includes/class-colete-online-shipping-method-options.php:275
+msgid "No free shipping"
+msgstr "Fără transport gratuit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:276
+#: includes/class-colete-online-shipping-method-options.php:276
+msgid "By amount"
+msgstr "După sumă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:277
+#: includes/class-colete-online-shipping-method-options.php:277
+msgid "By shipping class"
+msgstr "După clasa de expediere"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:278
+#: includes/class-colete-online-shipping-method-options.php:278
+msgid "By amount or shipping class"
+msgstr "După sumă sau clasa de expediere"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:279
+#: includes/class-colete-online-shipping-method-options.php:279
+msgid "By Coupon"
+msgstr "După cupon"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:280
+#: includes/class-colete-online-shipping-method-options.php:280
+msgid "By amount, shipping class or coupon"
+msgstr "După sumă, clasa de expediere sau cupon"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:284
+#: includes/class-colete-online-shipping-method-options.php:284
+msgid "For order amount bigger than"
+msgstr "Pentru comenzile cu suma mai mare de"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:285
+#: includes/class-colete-online-shipping-method-options.php:285
+msgid "Free shipping if order price (without transport) is bigger than amount"
+msgstr ""
+"Transport gratuit dacă prețul comenzii, fără transport este mai mare decât "
+"suma"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:294
+#: includes/class-colete-online-shipping-method-options.php:294
+msgid "For shipping classes"
+msgstr "Pentru clasa de expediere"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:295
+#: includes/class-colete-online-shipping-method-options.php:295
+msgid "For products with specific shipping class"
+msgstr "Pentru produsele cu clasa de expediere specifică"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:303
+#: includes/class-colete-online-shipping-method-options.php:303
+msgid "Append text for free shipping"
+msgstr "Adaugă text pentru transport gratuit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:304
+#: includes/class-colete-online-shipping-method-options.php:304
+msgid "Text to be added after courier name for free shipping"
+msgstr "Text de adăugat după numele curierului pentru transport gratuit"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:318
+#: includes/class-colete-online-shipping-method-options.php:318
+msgid "Packaging settings"
+msgstr "Setări colete"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:319
+#: includes/class-colete-online-shipping-method-options.php:319
+msgid "Configure the packaging settings"
+msgstr "Configurează setări colete"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:325
+#: includes/class-colete-online-shipping-method-options.php:325
+msgid "Packaging method"
+msgstr "Metoda de ambalare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:326
+#: includes/class-colete-online-shipping-method-options.php:326
+msgid "How the products will be packaged"
+msgstr "Cum vor fi împachetate produsele"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:332
+#: includes/class-colete-online-shipping-method-options.php:332
+msgid "All in a package"
+msgstr "Toate în același colet"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:333
+#: includes/class-colete-online-shipping-method-options.php:333
+msgid "Each in a package"
+msgstr "Individual"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:337
+#: includes/class-colete-online-shipping-method-options.php:337
+msgid "Packaging type"
+msgstr "Tip ambalare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:338
+#: includes/class-colete-online-shipping-method-options.php:338
+msgid ""
+"If prefering envelope for small packages. Envelope option is used for "
+"sending documents usualy so it may result in the inability to compensate "
+"your package if it is lost or destroyed. Use this option only if you "
+"understand the possible problems. "
+msgstr ""
+"Această opțiune indică preferințele dumneavoastră pentru pachetele mici. De "
+"obicei opțiunea \"Plic\" este folosită pentru a trimite documente astfel "
+"încât poate duce la imposibilitatea de a compensa pierderea sau distrugerea "
+"pachetului dumneavoastră. Folosiți această opțiune numai dacă înțelegeti "
+"posibilele probleme. "
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:344
+#: includes/class-colete-online-shipping-method-options.php:344
+msgid "Use parcel"
+msgstr "Păstrează ca și colet"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:345
+#: includes/class-colete-online-shipping-method-options.php:345
+msgid "Prefer envelope"
+msgstr "Folosește plic pentru pachete mici"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:349
+#: includes/class-colete-online-shipping-method-options.php:349
+msgid "Packages content"
+msgstr "Conținut pachete"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:350
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:363
+#: includes/class-colete-online-shipping-method-options.php:350
+#: includes/class-colete-online-shipping-method-options.php:363
+msgid "How the content of the packages will be sent to the couriers"
+msgstr "Modul în care conținutul pachetelor o să fie trimis la curier"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:356
+#: includes/class-colete-online-shipping-method-options.php:356
+msgid "Automatically from the product names"
+msgstr "Automat folosind numele produselor"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:357
+#: includes/class-colete-online-shipping-method-options.php:357
+msgid ""
+"Use a fixed content string when automatically generated string is too big"
+msgstr ""
+"Folosește un text fix pentru conținut când conținutul generat automat e prea "
+"lung"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:358
+#: includes/class-colete-online-shipping-method-options.php:358
+msgid "Use a fixed content string always"
+msgstr "Folosește un text fix pentru conținut"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:362
+#: includes/class-colete-online-shipping-method-options.php:362
+msgid "Packages content fixed string"
+msgstr "Conținut fix pachete"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:377
+#: includes/class-colete-online-shipping-method-options.php:377
+msgid "Order settings"
+msgstr "Setări de comandă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:378
+#: includes/class-colete-online-shipping-method-options.php:378
+msgid "Order specific settings"
+msgstr "Setări de comandă specifice"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:384
+#: includes/class-colete-online-shipping-method-options.php:384
+msgid "Trigger courier order on customer order"
+msgstr "Trimite comanda spre curier în momentul plasării comenzii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:385
+#: includes/class-colete-online-shipping-method-options.php:385
+msgid ""
+"Automatically create the AWB for a order when the customer completes the "
+"checkout"
+msgstr ""
+"Crează automat un AWB pentru o comandă după ce clientul plasează comanda"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:397
+#: includes/class-colete-online-shipping-method-options.php:397
+msgid "Trigger courier order on change from On Hold to Processing"
+msgstr ""
+"Trimite comanda spre curier în momentul schimbării statusului din \"În "
+"așteptare\" în \"În prelucrare\""
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:398
+#: includes/class-colete-online-shipping-method-options.php:398
+msgid ""
+"If an order has a payment method that needs manual processing, when the "
+"state is changed, automatically create the courier order"
+msgstr ""
+"Dacă o comandă a fost plasată folosind o metodă de plată care necesită "
+"procesare manuală, când starea plății se schimbă, crează o comandă automată "
+"către curier"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:410
+#: includes/class-colete-online-shipping-method-options.php:410
+msgid "Create a custom Shipping status for orders"
+msgstr "Crează un status personalizat de \"Livrare\" pentru comenzi"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:411
+#: includes/class-colete-online-shipping-method-options.php:411
+msgid "Add a new Shipping status that orders can use."
+msgstr "Adaugă un status nou de livrare care poate fi luat de comandă."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:423
+#: includes/class-colete-online-shipping-method-options.php:423
+msgid "Change order status when AWB is created"
+msgstr "Schimbă statusul comenzii atunci când AWB-ul este creat"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:424
+#: includes/class-colete-online-shipping-method-options.php:424
+msgid ""
+"When the courier order is created, change the status to Shipping from "
+"Processing."
+msgstr ""
+"Când se crează comanda către curier, schimbă statusul comenzii din "
+"\"Procesare \" în \"Livrare\"."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:436
+#: includes/class-colete-online-shipping-method-options.php:436
+msgid "Default pick up location"
+msgstr "Locația implicită de ridicare a comenzilor"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:437
+#: includes/class-colete-online-shipping-method-options.php:437
+msgid "Set the default pick up location"
+msgstr "Setează locația implicită de ridicare a comenzilor"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:478
+#: includes/class-colete-online-shipping-method-options.php:478
+msgid "Open at delivery"
+msgstr "Deschidere la livrare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:479
+#: includes/class-colete-online-shipping-method-options.php:479
+msgid "Set open at delivery settings"
+msgstr "Configurează setările de deschidere la livrare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:486
+#: includes/class-colete-online-shipping-method-options.php:486
+msgid "Always"
+msgstr "Mereu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:487
+#: includes/class-colete-online-shipping-method-options.php:487
+msgid "Let the user decide"
+msgstr "La alegerea utilizatorului"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:491
+#: includes/class-colete-online-shipping-method-options.php:491
+msgid "Open at delivery user text"
+msgstr "Text personalizat pentru deschidere la livrare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:492
+#: includes/class-colete-online-shipping-method-options.php:492
+msgid "Set open at delivery user text"
+msgstr "Setează textul de deschidere la livrare afișat utilizatorului"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:499
+#: includes/class-colete-online-shipping-method-options.php:499
+msgid "Insurance"
+msgstr "Asigurare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:500
+#: includes/class-colete-online-shipping-method-options.php:500
+msgid "Add insurance for orders"
+msgstr "Adaugă asigurare pentru comenzi"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:508
+#: includes/class-colete-online-shipping-method-options.php:508
+msgid "Only when no repayment"
+msgstr "Doar atunci când nu se cere ramburs"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:512
+#: includes/class-colete-online-shipping-method-options.php:512
+msgid "Send email to recipient"
+msgstr "Trimite mail către destinatar"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:513
+#: includes/class-colete-online-shipping-method-options.php:513
+msgid ""
+"When the order is created send an email to the recipient with tracking "
+"information and order datails"
+msgstr ""
+"Când comanda este creată trimite un email desinatarului cu informații legate "
+"de livrare și de comandă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:525
+#: includes/class-colete-online-shipping-method-options.php:525
+msgid "Client order reference"
+msgstr "Referință client"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:526
+#: includes/class-colete-online-shipping-method-options.php:526
+msgid ""
+"Add a client reference to the order. ([orderId] will be replaced with the "
+"order id)"
+msgstr ""
+"Adaugă o referință a clientului pentru comandă. ([orderId] va fi înlocuit cu "
+"numărul comenzii)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:533
+#: includes/class-colete-online-shipping-method-options.php:533
+msgid "Add custom order note"
+msgstr "Adaugă o notă predefinită la comandă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:534
+#: includes/class-colete-online-shipping-method-options.php:534
+msgid ""
+"Add a custom note on order creation. ([content] or [skuContent] can be used)"
+msgstr ""
+"Adaugă o notă predefinită la comandă ([content] sau [skuContent] pot fi "
+"folosite)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:541
+#: includes/class-colete-online-shipping-method-options.php:541
+msgid "Add order tracking link to mail"
+msgstr "Adaugă link-ul de urmărire al comenzii la mail"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:542
+#: includes/class-colete-online-shipping-method-options.php:542
+msgid "Include the order tracking link in the email sent to the client"
+msgstr "Include link-ul de urmărire al comenzii în mailul trimis către client"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:562
+#: includes/class-colete-online-shipping-method-options.php:562
+msgid "Advanced options"
+msgstr "Opțiuni avansate"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:563
+#: includes/class-colete-online-shipping-method-options.php:563
+msgid ""
+"Use this options only if you know that they apply to you. Ideally you should "
+"ask the colete online staff before using these options. Using the wrong "
+"configuration might result in invalid shipping orders."
+msgstr ""
+"Folosiți aceste opțiuni numai în cazul în care sunteți sigur că se aplică "
+"pentru dumneavoastră. Va recomandăm să contactați staff-ul Colete-Online "
+"înainte să le folosiți. Configurarea greșită a acestor opțiuni poate duce la "
+"afișarea unor prețuri greșite clienților și implicit la generarea de comenzi "
+"invalide."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:568
+#: includes/class-colete-online-shipping-method-options.php:568
+msgid "Order checkout form"
+msgstr "Fomular de comandă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:569
+#: includes/class-colete-online-shipping-method-options.php:569
+msgid ""
+"Use this select to choose the desired order checkout form for your website."
+msgstr ""
+"Folosiți această setare pentru a alege formularul de comandă dorit pentru "
+"magazinul dumneavoastră."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:575
+#: includes/class-colete-online-shipping-method-options.php:575
+msgid "Use Colete Online form"
+msgstr "Folosește formularul Colete-Online"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:576
+#: includes/class-colete-online-shipping-method-options.php:576
+msgid ""
+"Use default woocommerce form (no Colete-Online autocomplete for checkout)"
+msgstr ""
+"Folosește formularul WooCommerce (fără autocompletarea adresei din plugin-ul "
+"Colete-Online)"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:577
+#: includes/class-colete-online-shipping-method-options.php:577
+msgid "Use a customized form"
+msgstr "Folosește un formular personalizat"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:581
+#: includes/class-colete-online-shipping-method-options.php:581
+msgid "Show postal code"
+msgstr "Arată Cod Poștal"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:583
+#: includes/class-colete-online-shipping-method-options.php:583
+msgid "Where to show the postal code on the cart and checkout page"
+msgstr "Unde va fi afișat codul poștal în paginile de finalizare a comenzii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:590
+#: includes/class-colete-online-shipping-method-options.php:590
+msgid "Before address"
+msgstr "Înainte de adresă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:591
+#: includes/class-colete-online-shipping-method-options.php:591
+msgid "After address"
+msgstr "După adresa"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:592
+#: includes/class-colete-online-shipping-method-options.php:592
+msgid "Don't show"
+msgstr "Nu afișa"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:596
+#: includes/class-colete-online-shipping-method-options.php:596
+msgid "Validate postal code, city and county combination before submit"
+msgstr "Validează combinația de cod poștal, oraș și județ înainte de trimitere"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:598
+#: includes/class-colete-online-shipping-method-options.php:598
+msgid ""
+"Existing users that have the address completed might be able to place orders "
+"with an incorrect address. Using this option, ensures they enter a valid "
+"address"
+msgstr ""
+"Utilizatorii existenți care au o adresă completată e posibil să poată să "
+"plaseze comenzi fără o adresa validă. Utilizând această opțiune, se asigură "
+"validarea adresei"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:605
+#: includes/class-colete-online-shipping-method-options.php:605
+msgid "Don't validate"
+msgstr "Nu valida"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:606
+#: includes/class-colete-online-shipping-method-options.php:606
+msgid "Validate"
+msgstr "Validează"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:610
+#: includes/class-colete-online-shipping-method-options.php:610
+msgid "Use separate fields for county and city"
+msgstr "Folosește câmpuri separate pentru oraș și județ"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:611
+#: includes/class-colete-online-shipping-method-options.php:611
+msgid ""
+"ColeteOnline uses the same field for city and county, but if you want to use "
+"separate dropdowns enable this option"
+msgstr ""
+"ColeteOnline folosește același câmp pentru oraș și județ. Pentru câmpuri "
+"separate, activați această opțiune"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:624
+#: includes/class-colete-online-shipping-method-options.php:624
+msgid "Display city field"
+msgstr "Tip câmp oraș"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:626
+#: includes/class-colete-online-shipping-method-options.php:626
+msgid ""
+"This setting allows you to specify how the city field should be displayed "
+"within the order form."
+msgstr ""
+"Această setare vă permite să specificați cum ar trebui afișat câmpul de oraș "
+"în formularul de comandă."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:632
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:659
+#: includes/class-colete-online-shipping-method-options.php:632
+#: includes/class-colete-online-shipping-method-options.php:659
+msgid "Display with autocomplete"
+msgstr "Afiseaza cu sugestii de căutare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:637
+#: includes/class-colete-online-shipping-method-options.php:637
+msgid "Auto select city on search close"
+msgstr "Selectează automat orașul la închiderea căutării"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:639
+#: includes/class-colete-online-shipping-method-options.php:639
+msgid ""
+"If the city select is closed, automatically select the highlighted option, "
+"otherwise the user needs to explicitly select it"
+msgstr ""
+"Când căutarea orașului este închisă, selectează automat opțiunea "
+"evidențiată, altfel clientul trebuie să selecteze explicit orașul din listă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:651
+#: includes/class-colete-online-shipping-method-options.php:651
+msgid "Street field type"
+msgstr "Tip câmp stradă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:653
+#: includes/class-colete-online-shipping-method-options.php:653
+msgid ""
+"This setting allows you to specify the functionality of the street field."
+msgstr ""
+"Această setare vă permite să specificați funcționalitatea câmpului de stradă "
+"din formularul de comandă."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:660
+#: includes/class-colete-online-shipping-method-options.php:660
+msgid "Display without autocomplete"
+msgstr "Afișează fără sugestii de căutare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:661
+#: includes/class-colete-online-shipping-method-options.php:661
+msgid "Display Woocommerce field"
+msgstr "WooCommerce"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:665
+#: includes/class-colete-online-shipping-method-options.php:665
+msgid "Auto select street on search close"
+msgstr "Selectează automat strada la închiderea căutării"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:667
+#: includes/class-colete-online-shipping-method-options.php:667
+msgid ""
+"If the street select is closed, automatically select the highlighted option, "
+"otherwise the user needs to explicitly select it"
+msgstr ""
+"Când căutarea străzii este închisă, selectează automat opțiunea evidențiată, "
+"altfel clientul trebuie să selecteze explicit strada din listă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:679
+#: includes/class-colete-online-shipping-method-options.php:679
+msgid "Show street number"
+msgstr "Afișează număr stradă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:681
+#: includes/class-colete-online-shipping-method-options.php:681
+msgid ""
+"This setting allows you to specify how the street number should be displayed "
+"within the order form."
+msgstr ""
+"Această setare vă permite să specificați cum va fi afișat câmpul de număr "
+"stradă în formularul comenzii."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:687
+#: includes/class-colete-online-shipping-method-options.php:687
+msgid "Yes and mandatory"
+msgstr "Afișează și obligatoriu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:688
+#: includes/class-colete-online-shipping-method-options.php:688
+msgid "Yes but not mandatory"
+msgstr "Afișează și neobligatoriu"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:689
+#: includes/class-colete-online-shipping-method-options.php:689
+msgid "Do not display"
+msgstr "Nu afișa"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:693
+#: includes/class-colete-online-shipping-method-options.php:693
+msgid "Enable advanced product fields"
+msgstr "Activați câmpurile avansate ale produselor"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:694
+#: includes/class-colete-online-shipping-method-options.php:694
+msgid ""
+"Some products need special configuration for displaying the right shipping "
+"price. This option enables extra configuration fields on the product admin "
+"page."
+msgstr ""
+"Unele produse necesită o configurare specială pentru a afișa prețul corect "
+"de livrare. Această opțiune adaugă câmpuri extra de configurare pentru "
+"produse în pagină de administrator."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:706
+#: includes/class-colete-online-shipping-method-options.php:706
+msgid "Custom display name for aggregated services"
+msgstr "Afișează un nume personalizat pentru servicii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:707
+#: includes/class-colete-online-shipping-method-options.php:707
+msgid ""
+"When multiple courier orders need to be created choose the displayed courier "
+"name to the user"
+msgstr "Numele afișat clienților"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:716
+#: includes/class-colete-online-shipping-method-options.php:716
+msgid "Show email as first field"
+msgstr "Afișează câmpul de email că primul câmp"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:718
+#: includes/class-colete-online-shipping-method-options.php:718
+msgid ""
+"If the email field on the checkout page should be displayed as first field"
+msgstr ""
+"Această opțiune indică poziția câmpului de email în formularul de plată"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:730
+#: includes/class-colete-online-shipping-method-options.php:730
+msgid "Validate email"
+msgstr "Validează email-ul"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:732
+#: includes/class-colete-online-shipping-method-options.php:732
+msgid "Validate the email during the checkout process."
+msgstr "Validează email-ul la checkout."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:744
+#: includes/class-colete-online-shipping-method-options.php:744
+msgid "Show phone for shipping address"
+msgstr "Afișează telefon pentru adresa de livrare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:746
+#: includes/class-colete-online-shipping-method-options.php:746
+msgid ""
+"By default the phone is shown only for the billing address. Enable this to "
+"show for both"
+msgstr ""
+"În mod implicit, telefonul este afișat doar în cazul adresei de facturare. "
+"Activați această opțiune pentru a afișa și pentru adresa de livrare"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:758
+#: includes/class-colete-online-shipping-method-options.php:758
+msgid "Validate phone"
+msgstr "Validează telefonul"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:760
+#: includes/class-colete-online-shipping-method-options.php:760
+msgid "Validate the phone during the checkout process."
+msgstr "Validează telefonul în timpul procesului de finalizare a comenzii."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:771
+#: includes/class-colete-online-shipping-method-options.php:771
+msgid "Use optimized search"
+msgstr "Folosiți căutare optimizată"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:773
+#: includes/class-colete-online-shipping-method-options.php:773
+msgid "This option optimizes the speed for checkout auto complete fields."
+msgstr ""
+"Această opțiune optimizează viteză de căutare pentru câmpurile cu completare "
+"automată din formularul de checkout."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:803
+#: includes/class-colete-online-shipping-method-options.php:803
+msgid "Delivery to fixed points options"
+msgstr "Opțiuni pentru livrare la puncte fixe"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:804
+#: includes/class-colete-online-shipping-method-options.php:804
+msgid "Configure delivery to fixed points"
+msgstr "Configurați livrarea la puncte fixe"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:809
+#: includes/class-colete-online-shipping-method-options.php:809
+msgid "Hide delivery to fixed points for payment gateways"
+msgstr "Ascunde livrarea la puncte fixe de ridicare pentru metodele de plată"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:810
+#: includes/class-colete-online-shipping-method-options.php:810
+msgid ""
+"Choose the payment gateways for which you don't want to allow your clients "
+"to place orders using a shipping point."
+msgstr ""
+"Alegeți metodele de plată pentru care nu doriți să permiteți clienților "
+"dumneavoastră să plaseze comenzi folosind punctele de ridicare."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:819
+#: includes/class-colete-online-shipping-method-options.php:819
+msgid "Add custom text for restricted payment gateways"
+msgstr "Adăugați un text predefinit pentru metodele de plată restricționate"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:820
+#: includes/class-colete-online-shipping-method-options.php:820
+msgid ""
+"Enable the display of a custom text to the payment methods for which "
+"delivery to fixed points is disabled"
+msgstr ""
+"Permite afișarea unui text predefinit pentru metodele de plată pentru care "
+"livrarea la puncte fixe este dezactivată"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:829
+#: includes/class-colete-online-shipping-method-options.php:829
+msgid "Text for restricted payment gateways"
+msgstr "Text predefinit pentru metodele de plată restricționate"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:830
+#: includes/class-colete-online-shipping-method-options.php:830
+msgid "The message which will be displayed for the restricted payment gateways"
+msgstr "Mesajul care va fi afișat pentru metodele de plată restricționate"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:838
+#: includes/class-colete-online-shipping-method-options.php:838
+msgid "Prioritize delivery to fixed points services"
+msgstr "Prioritizeaza serviciile de livrare la puncte fixe"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method-options.php:839
+#: includes/class-colete-online-shipping-method-options.php:839
+msgid ""
+"Specify if delivery to fixed points services should be prioritized in the "
+"checkout page."
+msgstr ""
+"Specifică dacă serviciile de livrare la puncte fixe ar trebui prioritizate "
+"în pagina de finalizare comandă."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:141
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:142
+#: includes/class-colete-online-shipping-method.php:141
+#: includes/class-colete-online-shipping-method.php:142
+msgid "ColeteOnline"
+msgstr "ColeteOnline"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:143
+#: includes/class-colete-online-shipping-method.php:143
+msgid "Shipping Method for ColeteOnline"
+msgstr "Metoda de livrare pentru ColeteOnline"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:161
+#: includes/class-colete-online-shipping-method.php:161
+msgid "Client id"
+msgstr "Id client"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:163
+#: includes/class-colete-online-shipping-method.php:163
+msgid "The client_id provided by ColeteOnline"
+msgstr "Valoarea client_id ColeteOnline"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:166
+#: includes/class-colete-online-shipping-method.php:166
+msgid "Client secret"
+msgstr "Cheie secretă"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:168
+#: includes/class-colete-online-shipping-method.php:168
+msgid "The client_secret provided by ColeteOnline"
+msgstr "Valoarea client_secret ColeteOnline"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:248
+#: includes/class-colete-online-shipping-method.php:248
+msgid "Services table"
+msgstr "Tabel Servicii"
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:273
+#: includes/class-colete-online-shipping-method.php:273
+msgid ""
+"You will find the settings for delivery to point services in the Colete-"
+"Online platform."
+msgstr ""
+"Puteți regăsi setările pentru serviciile cu livrare la puncte fixe în "
+"platforma Colete-Online."
+
+#: dist/colete-online-1.5.2/includes/class-colete-online-shipping-method.php:274
+#: includes/class-colete-online-shipping-method.php:274
+msgid "Click here to change your settings"
+msgstr "Faceți click aici pentru a vă edita setările"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-actions.php:228
+#: public/class-colete-online-address-actions.php:228
+msgid "Please fill all the address fields."
+msgstr "Va rugăm să completați toate câmpurile de adresă."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-actions.php:230
+#: public/class-colete-online-address-actions.php:230
+msgid "The postal code format is invalid for the selected country."
+msgstr "Formatul codului poștal este invalid în țară selectată."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-actions.php:232
+#: public/class-colete-online-address-actions.php:232
+msgid "The county, locality, street and postal code combination is invalid."
+msgstr "Combinația de județ, localitate, stradă și cod poștal este invalidă."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-actions.php:254
+#: public/class-colete-online-address-actions.php:254
+msgid "Invalid phone number."
+msgstr "Număr de telefon invalid."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-actions.php:272
+#: public/class-colete-online-address-actions.php:272
+msgid "Invalid email address."
+msgstr "Adresă de email invalidă."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:52
+#: public/class-colete-online-address-filters.php:52
+msgid "City / Locality"
+msgstr "Oraș / Localitate"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:53
+#: public/class-colete-online-address-filters.php:53
+msgctxt "placeholder"
+msgid "City / Locality"
+msgstr "Oraș / Localitate"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:73
+#: public/class-colete-online-address-filters.php:73
+msgid "City and county"
+msgstr "Oraș și județ"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:74
+#: public/class-colete-online-address-filters.php:74
+msgctxt "placeholder"
+msgid "City and county"
+msgstr "Oraș și județ"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:90
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:99
+#: public/class-colete-online-address-filters.php:90
+#: public/class-colete-online-address-filters.php:99
+msgctxt "placeholder"
+msgid "Street"
+msgstr "Numele Străzii"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:106
+#: public/class-colete-online-address-filters.php:106
+msgid "Number"
+msgstr "Număr"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:108
+#: public/class-colete-online-address-filters.php:108
+msgctxt "placeholder"
+msgid "Number"
+msgstr "Numărul străzii"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-address-filters.php:133
+#: public/class-colete-online-address-filters.php:133
+msgid "Phone"
+msgstr "Telefon"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-checkout-actions.php:104
+#: dist/colete-online-1.5.2/public/class-colete-online-checkout-actions.php:111
+#: public/class-colete-online-checkout-actions.php:106
+#: public/class-colete-online-checkout-actions.php:113
+msgid "Shipping point delivery not available for this payment method"
+msgstr ""
+"Livrarea la puncte de ridicare nu este disponibilă pentru această metodă de "
+"plată"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-checkout-actions.php:127
+#: public/class-colete-online-checkout-actions.php:129
+msgid "Open package"
+msgstr "Deschide pachet"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-checkout-actions.php:225
+#: public/class-colete-online-checkout-actions.php:227
+msgid "A shipping point location should be selected."
+msgstr "Trebuie să selectați un punct de ridicare."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:99
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:153
+#: public/class-colete-online-public.php:99
+#: public/class-colete-online-public.php:153
+msgid "Select the county before"
+msgstr "Selectează județul înainte"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:100
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:154
+#: public/class-colete-online-public.php:100
+#: public/class-colete-online-public.php:154
+msgid "Select the city / locality"
+msgstr "Selectează oraș / localitate"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:116
+#: public/class-colete-online-public.php:116
+msgctxt "cart"
+msgid "No localities could be loaded"
+msgstr "Nicio localitate nu a putut fi afișată"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:117
+#: public/class-colete-online-public.php:117
+msgctxt "cart"
+msgid "Please insert %d or less characters to start searching for localities"
+msgstr ""
+"Va rugăm introduceți %d sau mai puține caractere pentru a căuta localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:118
+#: public/class-colete-online-public.php:118
+msgctxt "cart"
+msgid "Please insert %d or more characters to start searching for localities"
+msgstr ""
+"Va rugăm introduceți %d sau mai multe caractere pentru a căuta localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:119
+#: public/class-colete-online-public.php:119
+msgctxt "cart"
+msgid "More localities are loading..."
+msgstr "Mai multe localități se încarcă..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:120
+#: public/class-colete-online-public.php:120
+msgctxt "cart"
+msgid "No localities found for the given input"
+msgstr "Nicio localitate găsită pentru textul introdus"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:121
+#: public/class-colete-online-public.php:121
+msgctxt "cart"
+msgid "Searching localities..."
+msgstr "Se caută localitățile..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:122
+#: public/class-colete-online-public.php:122
+msgctxt "cart"
+msgid "Remove all localities"
+msgstr "Șterge toate localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:123
+#: public/class-colete-online-public.php:123
+msgctxt "cart"
+msgid "Remove locality"
+msgstr "Șterge localitatea"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:124
+#: public/class-colete-online-public.php:124
+msgctxt "cart"
+msgid "Search for localities"
+msgstr "Caută localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:163
+#: public/class-colete-online-public.php:163
+msgctxt "addresses"
+msgid "No streets could be loaded"
+msgstr "Nicio stradă nu a putut fi afișată"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:164
+#: public/class-colete-online-public.php:164
+msgctxt "addresses"
+msgid "Please insert %d or less characters to start searching for streets"
+msgstr ""
+"Vă rugăm să introduceți %d sau mai puține caractere pentru a începe căutarea "
+"străzilor"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:165
+#: public/class-colete-online-public.php:165
+msgctxt "addresses"
+msgid "Please insert %d or more characters to start searching for streets"
+msgstr ""
+"Vă rugăm să introduceți %d sau mai multe caractere pentru a începe căutarea "
+"străzilor"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:166
+#: public/class-colete-online-public.php:166
+msgctxt "addresses"
+msgid "More streets are loading..."
+msgstr "Mai multe străzi se încarcă..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:167
+#: public/class-colete-online-public.php:167
+msgctxt "addresses"
+msgid "No streets found for the given input"
+msgstr "Nicio stradă găsită pentru textul introdus"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:168
+#: public/class-colete-online-public.php:168
+msgctxt "addresses"
+msgid "Searching streets..."
+msgstr "Se caută străzile..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:169
+#: public/class-colete-online-public.php:169
+msgctxt "addresses"
+msgid "Remove all streets"
+msgstr "Șterge toate străzile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:170
+#: public/class-colete-online-public.php:170
+msgctxt "addresses"
+msgid "Remove street"
+msgstr "Șterge strada"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:171
+#: public/class-colete-online-public.php:171
+msgctxt "addresses"
+msgid "Search streets"
+msgstr "Caută străzile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:174
+#: public/class-colete-online-public.php:174
+msgctxt "addresses"
+msgid "No localities could be loaded"
+msgstr "Nicio localitate nu a putut fi afișată"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:175
+#: public/class-colete-online-public.php:175
+msgctxt "addresses"
+msgid "Please insert %d or less characters to start searching for localities"
+msgstr ""
+"Va rugăm să introduceți %d sau mai puține caractere pentru a începe căutarea "
+"localităților"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:176
+#: public/class-colete-online-public.php:176
+msgctxt "addresses"
+msgid "Please insert %d or more characters to start searching for localities"
+msgstr ""
+"Va rugăm să introduceți %d sau mai multe caractere pentru a începe căutarea "
+"localităților"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:177
+#: public/class-colete-online-public.php:177
+msgctxt "addresses"
+msgid "More localities are loading..."
+msgstr "Mai multe localități se încarcă..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:178
+#: public/class-colete-online-public.php:178
+msgctxt "addresses"
+msgid "No localities found for the given input"
+msgstr "Nicio localitate nu a fost găsită pentru textul introdus"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:179
+#: public/class-colete-online-public.php:179
+msgctxt "addresses"
+msgid "Searching for localities..."
+msgstr "Se caută localitățile..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:180
+#: public/class-colete-online-public.php:180
+msgctxt "addresses"
+msgid "Remove all localities"
+msgstr "Șterge toate localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:181
+#: public/class-colete-online-public.php:181
+msgctxt "addresses"
+msgid "Remove locality"
+msgstr "Șterge localitatea"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:182
+#: public/class-colete-online-public.php:182
+msgctxt "addresses"
+msgid "Search for localities"
+msgstr "Caută localitățile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:185
+#: public/class-colete-online-public.php:185
+msgctxt "addresses"
+msgid "No locations could be loaded"
+msgstr "Nicio locație nu a putut fi afișată"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:186
+#: public/class-colete-online-public.php:186
+msgctxt "addresses"
+msgid "Please insert %d or less characters to start searching for locations"
+msgstr ""
+"Va rugăm să introduceți %d sau mai puține caractere pentru a începe căutarea "
+"locațiilor"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:187
+#: public/class-colete-online-public.php:187
+msgctxt "addresses"
+msgid "Please insert %d or more characters to start searching for locations"
+msgstr ""
+"Va rugăm să introduceți %d sau mai multe caractere pentru a începe căutarea "
+"locațiilor"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:188
+#: public/class-colete-online-public.php:188
+msgctxt "addresses"
+msgid "More locations are loading..."
+msgstr "Mai multe locații se încarcă..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:189
+#: public/class-colete-online-public.php:189
+msgctxt "addresses"
+msgid "No locations found for the given input"
+msgstr "Nicio locație nu a fost găsită pentru textul introdus"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:190
+#: public/class-colete-online-public.php:190
+msgctxt "addresses"
+msgid "Searching locations..."
+msgstr "Se caută locațiile..."
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:191
+#: public/class-colete-online-public.php:191
+msgctxt "addresses"
+msgid "Remove all locations"
+msgstr "Șterge toate locațiile"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:192
+#: public/class-colete-online-public.php:192
+msgctxt "addresses"
+msgid "Remove location"
+msgstr "Șterge locația"
+
+#: dist/colete-online-1.5.2/public/class-colete-online-public.php:193
+#: public/class-colete-online-public.php:193
+msgctxt "addresses"
+msgid "Search for locations"
+msgstr "Caută locațiile"
+
+#: public/class-colete-online-checkout-actions.php:69
+msgctxt "checkout select"
+msgid "Choose shipping point"
+msgstr "Alege un punct de ridicare"
+
+#~ msgid ""
+#~ "Specify if delivery to fixed points services should be displayed first. "
+#~ "If this option is disabled, delivery to fixed points services will be "
+#~ "displayed last."
+#~ msgstr ""
+#~ "Specifică dacă serviciile de livrare la puncte fixe ar trebui afișate "
+#~ "primele. Dacă această opțiune este dezactivată, serviciile de livrare la "
+#~ "puncte fixe vor fi afișate ultimele."
+
+#~ msgid ""
+#~ "Display a fallback anytime (even if the address is not complete or wrong)"
+#~ msgstr ""
+#~ "Afișează un preț de rezervă oricând (chiar dacă adresa este incompletă "
+#~ "sau greșită)"
+
+#~ msgid "Locker options"
+#~ msgstr "Optiuni locker"
+
+#~ msgid "Configure lockers"
+#~ msgstr "Configurati setarile aferente lockerelor."
+
+#~ msgid "Download"
+#~ msgstr "Descarca"
+
+#~ msgid "Address:"
+#~ msgstr "Adresa:"
+
+#~ msgid "No shipping address set."
+#~ msgstr "Nu a fost setata o adresa de ridicare."
+
+#~ msgid "Address validation"
+#~ msgstr "Validarea adresei"
+
+#~ msgid "Checkout fields address validation"
+#~ msgstr "Validarea campului de adresa la efectuarea comenzii"
+
+#~ msgid ""
+#~ "This option optimizes the speed for checkout auto complete fields. This "
+#~ "option is experimental and might not work on all installations. If you "
+#~ "activate this and see any problems with the checkout fields, please "
+#~ "disable it and contact us!"
+#~ msgstr ""
+#~ "Aceasta optiune optimizeaza viteza cautarii in campurile de localitati si "
+#~ "strazi. Aceasta optiune este experimentala si este posibil sa nu mearga "
+#~ "pe toate versiunile de wordpress. Daca activati aceasta optiuena si "
+#~ "observati orice problema de functionalitate, va rugam sa o dezactivati si "
+#~ "sa ne contactati!"
+
+#~ msgid ""
+#~ "This controls what currency prices are listed at in the catalog and which "
+#~ "currency gateways will take payments in."
+#~ msgstr "Aceasta optiune controleaza in ce moneda sunt calculate preturile."
+
+#~ msgid "Please insert %d or more characters to start searching"
+#~ msgstr ""
+#~ "Va rugam sa introduceti %d sau mai multe caractere pentru a incepe "
+#~ "cautarea"
+
+#~ msgid "More results are loading..."
+#~ msgstr "Mai multe rezultate se incarca..."
+
+#, fuzzy
+#~| msgid "Number"
+#~ msgid "number"
+#~ msgstr "Numar"
